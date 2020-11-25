@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[PlanCab]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [descrip] NVARCHAR(50) NOT NULL, 
+    [fch] DATE NOT NULL
+)

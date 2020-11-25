@@ -1,0 +1,1 @@
+CREATE ASSEMBLY FuzzyLogicLibrary FROM 'C:\Users\marti\Source\Repos\FuzzyClrSp\FuzzyClrSp\Dlls\FuzzyLogicLibrary.dll' WITH PERMISSION_SET=SAFE;
